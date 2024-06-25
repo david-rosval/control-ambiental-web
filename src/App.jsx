@@ -26,10 +26,10 @@ function App() {
           <p>temperature: {temperature}</p>
         </div>
         <div>
-          <p>temperature: {humidity}</p>
+          <p>humidity: {humidity}</p>
         </div>
         <div>
-          <p>temperature: {ammonia}</p>
+          <p>ammonia: {ammonia}</p>
         </div>
       </div>
     </>
